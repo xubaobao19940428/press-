@@ -9,7 +9,7 @@ npm run build
 # �������ɵ��ļ���
 cd docs/.vuepress/dist
 
-
+git init
 git add -A
 git commit -m 'deploy'
 
