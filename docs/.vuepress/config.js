@@ -17,14 +17,18 @@ module.exports = {
     themeConfig: {
       nav:[ // 导航栏配置
         {text: '我们', link: '/accumulate/' },
-        {text: 'vue', link: '/vue/'},
-        {text: '微博', link: 'https://baidu.com'}      
+        {text: '我们的小孩子', link: '/ourChildren/'},
+        {text: '', link: 'https://baidu.com'}      
       ],
       sidebar: {
-        '/vue/': [
-          '',
-         ['one','测试'],
-         'two'
+        '/ourChildren/': [
+         ['','六个小孩一台戏'],
+         ['keke','比克'],
+         ['luna','露娜'],
+         ['lucky','lucky'],
+         ['linger','灵儿'],
+         ['dudu','嘟嘟'],
+         ['anan','安安']
         ],
         '/accumulate/': [
           ['','宝贝图片']
