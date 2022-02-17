@@ -1,7 +1,7 @@
 <template>
   <div class="allChildren">
     <div class="box">
-      <h3>dfgfghj jkdfg hhdfd</h3>
+      <h3>六个小孩一台戏</h3>
       <ul>
         <li>
           <img src="../public/images/children1.jpg" />
