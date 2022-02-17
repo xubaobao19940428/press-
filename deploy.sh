@@ -16,7 +16,7 @@ git commit -m 'deploy'
 # �������Ҫ���� https://xubaobao19940428.github.io
 git push -f git@github.com:xubaobao19940428/xubaobao19940428.github.io.git master
 
-# ��������� https://USERNAME.github.io/<REPO>  REPO=github�ϵ���Ŀ
- git push -f git@github.com:xubaobao19940428/vuepress.git master:gh-pages
+# # ��������� https://USERNAME.github.io/<REPO>  REPO=github�ϵ���Ŀ
+#  git push -f git@github.com:xubaobao19940428/vuepress.git master:gh-pages
 
 cd -
