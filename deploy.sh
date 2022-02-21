@@ -12,7 +12,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-
+ssh-add /Users/qiancheng/.ssh/id_rsa
 # �������Ҫ���� https://xubaobao19940428.github.io
 git push -f git@github.com:xubaobao19940428/xubaobao19940428.github.io.git master
 
