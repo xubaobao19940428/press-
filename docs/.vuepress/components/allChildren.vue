@@ -115,6 +115,7 @@ ul li {
 li img {
   height: 75px;
   width: 100px;
+  Object-fit:cover;
 }
 ul li:hover img {
   height: 150px;

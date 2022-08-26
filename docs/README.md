@@ -12,3 +12,6 @@ features:
   details: 希望宝贝永远快乐，健健康康，没有烦恼，当然我还会给你带去烦恼的。
 footer: 只属于你和我的网站
 ---
+<ClientOnly>
+  <index/>
+</ClientOnly>

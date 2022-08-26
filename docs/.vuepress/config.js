@@ -18,7 +18,7 @@ module.exports = {
       nav:[ // 导航栏配置
         {text: '我们', link: '/accumulate/' },
         {text: '我们的小孩子', link: '/ourChildren/'},
-        {text: '面试', link: '/interview/'}      
+        {text: '前端的一些题', link: '/interview/'}      
       ],
       sidebar: {
         '/ourChildren/': [
@@ -34,7 +34,7 @@ module.exports = {
           ['','宝贝图片']
         ],
         "/interview/": [{
-            "title": "面试",
+            "title": "前端的一些题",
             "children": ["", "algorithms", "design-patterns", "js", "network", "questions", "react", "vue"],
             "collapsable": false
         }],
